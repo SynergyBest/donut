@@ -1,4 +1,4 @@
-x,y,o       ,N;char       b[1840]       ;p(n,c)
+_,x,y,o       ,N;char       b[1840]       ;p(n,c)
 {for(;n       --;x++)       c==10?y       +=80,x=
 o-1:x>=       0?80>x?       c!='~'?       b[y+x]=
 c:0:0:0       ;}c(q,l       ,r,o,v)       char*l,
